@@ -1,3 +1,1 @@
-# m02e
-
-Harvard-style branding applied. Starting point for fixing sidebar readability.
+Instructor output for Harvard-style branding with readable columns, created by AI.
